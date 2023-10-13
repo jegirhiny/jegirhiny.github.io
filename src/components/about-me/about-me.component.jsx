@@ -20,9 +20,6 @@ const AboutMe = () => {
                         There is also <a href='https://www.sixflags.com/america'>Six Flags</a>, or ultimate frisbee match (it gets intense).
                     </p>
                 </div>
-                {/* <div className='about-me-photo-container'>
-                    <div className='about-me-photo'></div>
-                </div> */}
             </div>
         </div>
     );
