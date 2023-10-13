@@ -7,7 +7,7 @@ const Projects = () => {
                 <h1>Noteworthy Work.</h1>
                 <div className='special-text'>
                     <h2 id='surround-text-vault'>Peak into the</h2>
-                    <a href='#' id='vault'>vault</a>
+                    <a href='https://github.com/jegirhiny' id='vault'>vault</a>
                     <h2>.</h2>
                 </div>
             </div>
