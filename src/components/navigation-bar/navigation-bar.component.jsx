@@ -9,7 +9,7 @@ const Navigation = () => {
                 <a href='#projects'><span>02.</span>Projects</a>
                 <a href='#projects'><span>03.</span>Skills</a>
                 <a href='#contact'><span>04.</span>Contact</a>
-                <a href='..\images\Jake_Girhiny_Resume.png' id='resume-link' download>Resume</a>
+                <a href='..\pdfs\Jake_Girhiny_Resume.pdf' id='resume-link' download>Resume</a>
             </ol>
         </div>
     );
