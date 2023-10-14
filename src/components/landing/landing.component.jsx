@@ -8,10 +8,7 @@ const Landing = () => {
                 <h1 className='landing-name'>Jake Girhiny.</h1>
                 <h2 className='landing-job'>Software Engineer.</h2>
                 <p className='landing-about'>
-                    Undergraduate living in Massachusetts with a passion for software development.
-                    Interested in all things applications from designing, testing, and solving real-life problems with code.
-                    Have a look around, I'm sure you'll find something you like.
-                </p>
+                    A Massachusetts student deeply passionate about software development. I'm immersed in all aspects of applications, including design, testing, and the use of code to address real-life challenges. Feel free to explore - you're likely to find something that sparks your interest.</p>
                 <a href='#about' className='landing-more'>Get to know me!</a>
             </div>
         </section>
