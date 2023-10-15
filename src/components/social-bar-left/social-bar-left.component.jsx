@@ -9,9 +9,6 @@ const SocialBarLeft = () => {
             <a href='mailto:jegirhiny@gmail.com'>
                 <img src='../images/envelope-regular-240.png' alt='Gmail'/>
             </a>
-            <a href='https://www.instagram.com/jegirhiny/'>
-                <img src='../images/instagram-logo-240.png' alt='Instagram'/>
-            </a>
             <a href='https://www.linkedin.com/in/jegirhiny/'>
                 <img src='../images/linkedin-logo-240.png' alt='Instagram'/>
             </a>

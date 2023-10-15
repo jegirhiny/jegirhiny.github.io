@@ -1,9 +1,9 @@
 .nav-bar {
-    padding: 30px 0 20px 0;
     display: flex;
     align-items: center;
     justify-content: center;
     font-family: 'Source Code Pro', monospace;
+    height: 10vh;
 }
 
 .nav-bar span {
@@ -12,17 +12,13 @@
 }
 
 .nav-list a {
-    color: #E9B872;
+    color: #FFFFFF;
     display: inline-flex;
     align-items: center;
     margin-left: 30px;
     padding: 10px;
     border: 2px solid #151515;
     border-radius: 5px;
-}
-
-.nav-list a {
-    color: #FFFFFF;
     text-decoration: none;
     transition: all 300ms ease-in;
 }

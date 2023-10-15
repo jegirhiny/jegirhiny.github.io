@@ -1,6 +1,6 @@
-import Navigation from './components/navigation-bar/navigation-bar.component';
+import NavBarTop from './components/nav-bar-top/nav-bar-top.component';
 import Introduction from './components/landing/landing.component';
-import NavigationSideBar from './components/navigation-side-bar/navigation-side-bar.component';
+import NavBarSide from './components/nav-bar-side/nav-bar-side.component';
 import SocialBarLeft from './components/social-bar-left/social-bar-left.component';
 import Projects from './components/featured-projects/featured-projects.component';
 import ContactInfo from './components/contact-info/contact-info.component';
@@ -12,10 +12,8 @@ function App() {
   return (
     <div className="App">
       <div className='content'>
-        <SocialBarLeft></SocialBarLeft>
-        <NavigationSideBar></NavigationSideBar>
         <div className='landing-section' id='landing'>
-          <Navigation></Navigation>
+          <NavBarTop></NavBarTop>
           <Introduction></Introduction>
         </div>
         <div className='about-section' id='about'>
@@ -30,6 +28,8 @@ function App() {
         <div className='footer-section'>
           <Footer></Footer>
         </div>
+        <SocialBarLeft></SocialBarLeft>
+        <NavBarSide></NavBarSide>
       </div>
     </div>
   );

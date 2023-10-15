@@ -1,4 +1,4 @@
-import '../navigation-side-bar/navigation-side-bar.styles.css';
+import './nav-bar-side.styles.css';
 
 const NavigationSideBar = () => {
     return(
