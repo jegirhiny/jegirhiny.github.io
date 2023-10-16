@@ -1,53 +1,46 @@
-.nav-bar {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Source Code Pro', monospace;
-    height: 10vh;
-}
-
-.nav-bar span {
-    padding-right: 5px;
-    color: #E9B872;
-}
-
-.nav-list a {
-    color: #FFFFFF;
-    display: inline-flex;
-    align-items: center;
-    margin-left: 30px;
-    padding: 10px;
-    border: 2px solid #151515;
-    border-radius: 5px;
-    text-decoration: none;
-    transition: all 300ms ease-in;
-}
-
-.nav-list a:hover {
-    color: #E9B872;
-    transition: all 300ms ease-in;
-}
-
-.nav-name {
-    color: #FFFFFF;
-    text-align: left;
-    width: 25%;
-}
-
-.nav-list {
-    text-align: right;
-    width: 75%;
-}
-
-#resume-link {
+#resume {
     transition: all 300ms ease-in;
     border: 2px solid #A63D40;
     border-radius: 5px;
     color: #E9B872;
 }
 
-#resume-link:hover {
-    transition: all 300ms ease-in;
+#resume:hover {
     background-color: #A63D40;
     transform: none;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    height: 10vh;
+}
+
+.nav-bar span {
+    margin-right: 10px;
+    color: #E9B872;
+}
+
+.nav-list a {
+    color: #FFFFFF;
+    display: inline-flex;
+    margin-left: 30px;
+    padding: 10px;
+    text-decoration: none;
+    transition: all 300ms ease-in;
+}
+
+.nav-list a:hover {
+    color: #E9B872;
+}
+
+.nav-name {
+    color: #FFFFFF;
+    text-align: left;
+    width: 25vw;
+}
+
+.nav-list {
+    text-align: right;
+    width: 75vw;
 }

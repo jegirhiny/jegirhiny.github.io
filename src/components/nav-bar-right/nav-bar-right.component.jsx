@@ -1,6 +1,6 @@
-import './nav-bar-side.styles.css';
+import './nav-bar-right.styles.css';
 
-const NavigationSideBar = () => {
+const NavBarRight = () => {
     return(
         <div className='vertical-right-bar'>
             <a href='#landing'>
@@ -20,4 +20,4 @@ const NavigationSideBar = () => {
     );
 }
 
-export default NavigationSideBar;
+export default NavBarRight;
