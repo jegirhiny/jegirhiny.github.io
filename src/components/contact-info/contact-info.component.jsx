@@ -5,7 +5,7 @@ const ContactInfo = () => {
         <div className='contact-info-div'>
             <div className='contact-background'>
                 <h1>Reaching out?</h1>
-                <h2>Look no further.</h2>
+                <h2>Look no further</h2>
                 <p>
                     I'm actively seeking opportunities and open to connecting.
                     <br></br>
