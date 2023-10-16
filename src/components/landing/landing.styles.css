@@ -7,6 +7,10 @@
     height: 90vh;
 }
 
+.landing-div h1 {
+    text-align: left;
+}
+
 .landing-my-name {
     margin-bottom: 10px;
 }
