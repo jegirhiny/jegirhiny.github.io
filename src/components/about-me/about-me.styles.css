@@ -1,58 +1,14 @@
-
 .about-me-background {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-content: center;
+    align-items: center;
     flex-wrap: wrap;
     height: inherit;
-}
-
-.about-me-main-header {
-    text-align: center;
-    width: 100%;
-}
-
-.about-me-header {
-    text-align: center;
-    width: 100%;
-    opacity: 65%;
-}
-
-.about-me-desc-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    height: fit-content;
-    width: 700px;
-}
-
-.about-me-desc {
-    margin-top: 20px;
 }
 
 .about-me-background a {
     font-size: 17px;
     color: #A63D40;
-}
-
-.about-me-photo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #222222;
-    border-radius: 20px;
-    margin-left: 40px;
-    height: 330px;
-    width: 330px;
-}
-
-.about-me-photo {
-    filter: grayscale(0.2);
-    display: inline-flex;
-    background-image: url('/public/images//graduation-photo.jpg');
-    background-size: 300px;
-    border-radius: 15px;
-    height: 300px;
-    width: 300px;
 }

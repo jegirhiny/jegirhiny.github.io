@@ -4,7 +4,6 @@
     align-items: center;
 }
 
-.footer-text {
-    text-align: center;
+.footer-container h3 {
     font-size: 15px;
 }
