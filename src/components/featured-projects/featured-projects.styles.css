@@ -47,6 +47,7 @@
 }
 
 .vault {
+    font-size: inherit;
     color: #A63D40;
     text-decoration: underline;
     text-decoration-color: #FFFFFF;

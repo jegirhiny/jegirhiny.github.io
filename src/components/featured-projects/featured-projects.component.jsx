@@ -5,7 +5,7 @@ const Projects = () => {
         <section className='projects-container'>
             <div className='projects-header-text'>
                 <h1>Noteworthy Work</h1>
-                <h2>Peak into the <span href='https://github.com/jegirhiny' className='vault'>vault</span></h2>
+                <h2>Peak into the <a href='https://github.com/jegirhiny' className='vault'>vault</a></h2>
             </div>
             <div className='projects-div'>
                 <div className='projects-div-inner'>
