@@ -10,33 +10,33 @@ const Projects = () => {
             <div className='projects-div'>
                 <div className='projects-div-inner'>
                     <img src='../images/folder-logo.png'></img>
+                    <h2>personal-portfolio</h2>
+                    <p>This was my first big leap into web development. I'm happy with how it turned out.</p>
+                    <h3>React / JS</h3>
+                </div>
+                <div className='projects-div-inner'>
+                    <img src='../images/folder-logo.png'></img>
+                    <h2>weather-app</h2>
+                    <p>Allows users to check the current weather and forecast for a specific location.</p>
+                    <h3>JS / HTML / CSS</h3>
+                </div>
+                <div className='projects-div-inner'>
+                    <img src='../images/folder-logo.png'></img>
                     <h2>wordle</h2>
                     <p>Wordle is a web-based game giving players six chances to guess the word correctly.</p>
-                    <h3>Java + JavaFX</h3>
+                    <h3>Java / JavaFX</h3>
                 </div>
                 <div className='projects-div-inner'>
                     <img src='../images/folder-logo.png'></img>
                     <h2>fifteen-puzzle-game</h2>
                     <p>The fifteen puzzle game is a sliding puzzle with fifteen moving tiles.</p>
-                    <h3>React + JavaScript</h3>
+                    <h3>React / JS</h3>
                 </div>
                 <div className='projects-div-inner'>
                     <img src='../images/folder-logo.png'></img>
                     <h2>blackjack</h2>
                     <p>Blackjack is a card game where the goal is to have a higher value than the dealer.</p>
                     <h3>Java</h3>
-                </div>
-                <div className='projects-div-inner'>
-                    <img src='../images/folder-logo.png'></img>
-                    <h2>farm-idle-game</h2>
-                    <p>Farm Idle is an unfinished clicker game. Dig, seed, and upgrade your way to victory.</p>
-                    <h3>Java + JavaFX</h3>
-                </div>
-                <div className='projects-div-inner'>
-                    <img src='../images/folder-logo.png'></img>
-                    <h2>personal-portfolio</h2>
-                    <p>This was my first big leap into web development. I'm happy with how it turned out.</p>
-                    <h3>React + JavaScript</h3>
                 </div>
                 <div className='projects-div-inner'>
                     <img src='../images/folder-logo.png'></img>
