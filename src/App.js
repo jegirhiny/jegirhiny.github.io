@@ -12,14 +12,14 @@ function App() {
   return (
     <div className="App">
       <div className='content'>
-        <div className='landing-section' id='landing'>
+        <div className='section' id='landing'>
           <NavBarTop />
           <Landing />
         </div>
-        <div className='about-section' id='about'>
+        <div className='section' id='about'>
           <About />
         </div>
-        <div className='skill-section' id='projects'>
+        <div className='section' id='projects'>
           <Projects />
         </div>
         <div className='contact-section' id='contact'>

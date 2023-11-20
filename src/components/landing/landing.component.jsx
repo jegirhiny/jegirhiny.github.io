@@ -4,13 +4,13 @@ const Landing = () => {
     return(
         <section className='landing-div'>
             <div>
-                <h3 className='landing-my-name'>Hi, my name is</h3>
-                <h1>Jake Girhiny</h1>
-                <h2>Software Engineer</h2>
-                <p>
-                    A Massachusetts student deeply passionate about software development. I'm immersed in all aspects of applications, including design, testing, and the use of code to address real-life challenges. Feel free to explore - you're likely to find something that sparks your interest.
-                </p>
-                <a href='#about' className='landing-more'>Get to know me!</a>
+                <h3 className='landing-my-name'>H e l l o .</h3>
+                <div style={{ display: 'flex', alignItems: 'center' }}>
+                    <div className='horizontal-line'></div>
+                    <h1>I'm Jake</h1>
+                </div>
+                <h2>Software Developer</h2>
+                <a href='#about' className='landing-more'>⤵</a>
             </div>
         </section>
     );

@@ -3,7 +3,7 @@ import './nav-bar-top.styles.css';
 const Navigation = () => {
     return(
         <div id='landing' className='nav-bar'>
-            <a className='nav-name'>jegirhiny.github.io</a>
+            <span className='nav-name'>Jake Girhiny</span>
             <ol className='nav-list'>
                 <a href='#about'><span>01.</span>About Me</a>
                 <a href='#projects'><span>02.</span>Projects</a>
