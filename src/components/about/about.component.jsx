@@ -8,7 +8,7 @@ const AboutMe = () => {
             <p>
                 Hello! My name is Jake. I'm an aspiring software engineer who loves creating. Introduced to programming in late 2020, 
                 I became fascinated with code and began taking courses at <a href='https://www.wma.us/'>Wilbraham & Monson Academy</a> (my high school).
-                After graduating, I took a decisive step and enrolled in the UMass Global <a href='https://www.umassglobal.edu/academic-programs/extended-education/software-engineering-bootcamp'>Software Engineering Bootcamp</a>. 
+                After graduating, I enrolled in the UMass Global <a href='https://www.umassglobal.edu/academic-programs/extended-education/software-engineering-bootcamp'>Software Engineering Bootcamp</a>. 
                 Today, I'm excited to be actively working towards completing the program.
             </p>
             <p>
