@@ -7,6 +7,7 @@ import Projects from './components/featured-projects/featured-projects.component
 import Contact from './components/contact/contact.component';
 import Footer from './components/footer/footer.component';
 import './App.css';
+import Heading from './components/heading/heading.component';
 
 function App() {
   return (
@@ -17,12 +18,15 @@ function App() {
           <Landing />
         </div>
         <div className='section' id='about'>
+        <Heading text='01.'/>
           <About />
         </div>
         <div className='section' id='projects'>
+          <Heading text='02.'/>
           <Projects />
         </div>
         <div className='contact-section' id='contact'>
+        <Heading text='03.'/>
           <Contact />
         </div>
         <div className='footer-section'>

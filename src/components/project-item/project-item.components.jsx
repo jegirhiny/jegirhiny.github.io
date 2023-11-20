@@ -1,12 +1,18 @@
 import './project-item.styles.css';
 
-const ProjectItem = ({ title, description, technologies}) => {
+const ProjectItem = ({ title, desc, tech, link}) => {
     return (
         <div className='projects-div-inner'>
-            <img src='../images/folder-logo.png'></img>
-            <h2>{title}</h2>
-            <p>{description}</p>
-            <h3>{technologies}</h3>
+            <h2>{ title }</h2>
+            <div className='row'>
+                {tech.map((item, index) => {
+                    return(
+                        <h3 key={index} className='tech-item'>{ item }</h3>
+                    )
+                })}
+            </div>
+            <p>{ desc }</p>
+            <a href={ link } className='github'>View Project</a>
         </div>
     )
 }

@@ -4,7 +4,7 @@
     justify-content: center;
     align-content: center;
     flex-wrap: wrap;
-    height: inherit;
+    height: 90vh;
 }
 
 .about-me-background a {
