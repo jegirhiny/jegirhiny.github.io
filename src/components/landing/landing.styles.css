@@ -12,17 +12,18 @@
 }
 
 .landing-more {
-    width: 100%;
-    display: inline-flex;
+    width: 95%;
+    padding-right: 5%;
+    display: block;
     text-decoration: none;
     justify-content: center;
     border: 2px solid #A63D40;
     color: #E9B872;
-    text-align: center;
     padding-top: 10px;
     transition: all 300ms ease-in;
     margin-top: 1vh;
     font-size: 40px;
+    text-align: right;
 }
 
 .landing-more:hover {
