@@ -19,7 +19,7 @@ const Projects = () => {
                 />
                 <ProjectItem 
                     title="Password Generator"
-                    desc="Welcome to my GitHub-hosted portfolio! Here, you can immerse yourself in a collection of my projects, trace my creative journey, and reach out for opportunities to collaborate." 
+                    desc="A robust and user-friendly password generator tool, capable of creating highly secure and customizable passwords. It features a range of options for generating strong and unique keys." 
                     tech={["JavaScript", "HTML", "CSS"]} 
                     link="https://github.com/jegirhiny/jegirhiny.github.io"
                 />
