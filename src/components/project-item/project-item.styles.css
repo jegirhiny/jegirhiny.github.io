@@ -16,7 +16,6 @@
 
 .projects-div-inner h3 {
     font-size: 17px;
-    margin: 0;
     text-align: center;
 }
 
@@ -28,16 +27,16 @@
 .row {
     width: inherit;
     display: flex;
-    justify-content: space-between;
 }
 
-.tech-item {
+.tech-used {
     font-weight: 400;
     background-color: #1e1e1e;
     width: fit-content;
     border-radius: 15px;
     color: #FFFFFF;
     padding: 10px 25px;
+    margin-right: 10px;
 }
 
 .github {

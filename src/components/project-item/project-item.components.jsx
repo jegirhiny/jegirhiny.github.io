@@ -7,7 +7,7 @@ const ProjectItem = ({ title, desc, tech, link}) => {
             <div className='row'>
                 {tech.map((item, index) => {
                     return(
-                        <h3 key={index} className='tech-item'>{ item }</h3>
+                        <h3 key={index} className='tech-used'>{ item }</h3>
                     )
                 })}
             </div>
