@@ -6,4 +6,6 @@
 
 .text {
     width: 10vw;
+    font-size: 40px;
+    opacity: .65;
 }
