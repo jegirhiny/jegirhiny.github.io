@@ -21,13 +21,13 @@ const Projects = () => {
                     title="Password Generator"
                     desc="A robust and user-friendly password generator tool, capable of creating highly secure and customizable passwords. It features a range of options for generating strong and unique keys." 
                     tech={["JavaScript", "HTML", "CSS"]} 
-                    link="https://github.com/jegirhiny/jegirhiny.github.io"
+                    link="https://github.com/jegirhiny/password-generator"
                 />
                 <ProjectItem 
                     title="Wordle"
                     desc="Challenge your word-guessing skills with the classic web game, Wordle. This project presents a Java and JavaFX implementation, highlighting proficiency in Java development and UI design." 
                     tech={["Java", "JavaFX", "CSS"]} 
-                    link=""
+                    link="https://github.com/jegirhiny/wordle"
                 />
             </div>
         </div>
