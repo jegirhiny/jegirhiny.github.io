@@ -10,12 +10,12 @@
 .projects-div-inner h2 {
     opacity: 1;
     font-weight: 400;
-    font-size: 35px;
+    font-size: 30px;
     text-align: left;
 }
 
 .projects-div-inner h3 {
-    font-size: 17px;
+    font-size: 16px;
     text-align: center;
 }
 
@@ -42,7 +42,7 @@
 .github {
     transition: 300ms all ease-in-out;
     text-align: center;
-    width: 10vw;
+    width: 8vw;
     text-decoration: none;
     border-bottom: 2px solid #A63D40;
     font-size: 17px;
