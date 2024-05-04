@@ -30,12 +30,13 @@
 }
 
 .tech-used {
-    font-weight: 400;
+    text-transform: uppercase;
+    font-weight: 500;
     background-color: #1e1e1e;
     width: fit-content;
     border-radius: 15px;
     color: #FFFFFF;
-    padding: 10px 25px;
+    padding: 5px 25px;
     margin-right: 10px;
 }
 
@@ -51,5 +52,5 @@
 }
 
 .github:hover {
-    background-color: #A63D40;
+    background-color: #A63D4050;
 }

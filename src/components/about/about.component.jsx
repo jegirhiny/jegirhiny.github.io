@@ -14,7 +14,7 @@ const AboutMe = () => {
             <p>
                 Away from the screens, I cherish quality time with friends and family. 
                 Our adventures often involve scenic hikes, gatherings at <a href='https://www.noodlesnorthampton.com/'>Noodles</a> (a delightful local Asian eatery), 
-                and the occasional high-stakes ultimate frisbee showdown. It's all about making lasting memories and savoring the excitement of each adventure.
+                and the occasional high-stake ultimate frisbee match. It's all about making lasting memories and savoring the excitement of each adventure.
             </p>
         </div>
     );
